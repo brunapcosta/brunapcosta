@@ -2,7 +2,7 @@
 Contato:
 <br>
 <a href="https://www.linkedin.com/in/bruna-padilha-da-costa-15828893" target="_blank"> <img src="https://mktoolboxsuite.com/wp-content/uploads/2019/08/linkedin-300x263.jpg" alt="logo-linkedin" width="25px"> <a/>
-<br>
+
 :e-mail: bruna_padi95@hotmail.com
 <br>
 <br>
