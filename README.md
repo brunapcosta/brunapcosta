@@ -3,7 +3,7 @@ Contato:
 <br>
 :e-mail: bruna_padi95@hotmail.com   
 <a href="https://www.linkedin.com/in/bruna-padilha-da-costa-15828893" target="_blank"> <img src="https://mktoolboxsuite.com/wp-content/uploads/2019/08/linkedin-300x263.jpg" alt="logo-linkedin" width="30px"> <a/>   
-Eu sou a Bruna Costa, sou programadora Front End, atualmente estou aprendendo e criando com:
+Eu sou a Bruna Costa, sou programadora Front End, atualmente estou criando com:
 <br>
   → <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
   <br>
