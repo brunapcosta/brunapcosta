@@ -26,6 +26,9 @@ Eu sou a Bruna Costa, sou programadora Front End, atualmente estou criando com:
   → <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="sequelize-logo"/>
 <br>
   → <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jwt-logo"/>
+<br>
+  → <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-logo"/>
+<br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunapcosta)
   
